@@ -1,2 +1,2 @@
-Incorporated python to study information for bank marketing data.
+Incorporated python to study information for wine rating data.
 Acknoledged a Distinction.
