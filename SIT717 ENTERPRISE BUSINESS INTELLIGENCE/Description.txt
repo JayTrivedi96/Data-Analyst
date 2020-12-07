@@ -1,0 +1,2 @@
+Includes Time Series Forecasting for Hospital data (i.e. Horton General Hospital and Diabetic Data) by deploying machine learning algorithms.
+Secured a Distinction.
