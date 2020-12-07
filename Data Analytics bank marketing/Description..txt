@@ -1,0 +1,1 @@
+Used python and various machine learning algorithms to predict an effective marketing strategies which targets to improve the number of customers subscribing the term deposits.
